@@ -1,2 +1,2 @@
-# sampleMicroService1
-Sample Micro Services with Spring Boot 
+# sample-micro-service-1
+Sample Microservices with Spring Boot 
