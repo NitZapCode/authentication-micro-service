@@ -1,2 +1,2 @@
-# sample-micro-service-1
-Sample Microservices with Spring Boot 
+# authentication-micro-service-1
+Authentication service with JWT token and spring security
